@@ -6,6 +6,10 @@ A Nextflow pipeline for comprehensive quality control of HPV16 sequencing data, 
 
 This pipeline takes BAM files containing reads aligned to HPV reference genomes and performs multi-layered quality assessment specifically designed for HPV16 sequencing studies.
 
+### Pipeline DAG
+
+![Qualimap-HPV16 Pipeline DAG](dag.png)
+
 ### Pipeline Workflow
 
 ```
